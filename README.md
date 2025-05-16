@@ -1,5 +1,5 @@
 
-# Python Program to define a lambda function that takes a parameter `z` and returns `z * 2`.
+# Python Program to define a lambda function .
 
 # Aim
 To write a Python lambda function that accepts a parameter `z` and returns its double (i.e., `z * 2`).
